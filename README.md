@@ -13,7 +13,7 @@ Manual Testing Project - Includes structured test plans, well-documented test ca
 ## 🚀 How to Use
 1. **Clone the repo**:
    ```bash
-   git clone: https://github.com/RuksarIbtesam/SoftwareTestingProjects.git
+  https://github.com/RuksarIbtesam/SoftwareTestingProjects.git
    
 **2.** Navigate through the Test Plan and Test Cases folders.
 **3.** Execute the relevant test cases as per the module or feature under test.
